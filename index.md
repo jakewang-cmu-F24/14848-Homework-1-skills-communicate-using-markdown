@@ -8,3 +8,12 @@
 feat: add headers to index.md
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```cpp
+import std;
+
+int main() {
+    std::print("Hello world\n");
+    return 0;
+}
+```
