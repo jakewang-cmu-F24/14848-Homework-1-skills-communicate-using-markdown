@@ -6,3 +6,5 @@
 ###### This is an h6 haeder
 
 feat: add headers to index.md
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
